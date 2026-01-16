@@ -1,1 +1,3 @@
 this is the project setup file
+step 1
+step 2
